@@ -6,7 +6,7 @@ Performed data analysis on a set of tickers to identify which tickers had the be
 # Analysis:
 
 ### **Analysis of Tickers in 2017**
-![2017 Tickers](https://github.com/frlinh/stock-analysis/blob/c45e74f3a7a53e77f367eb688aadfdf18b6c9a29/VBA_Challenge_Tickers_2017.png)
+![2017 Tickers](https://github.com/frlinh/stock-analysis/blob/c62fd35b6916e481665cf89bc5df2693b5085e57/VBA_Challenge_Tickers_2017.png)
 
 ### Performance
 Original VBA script: Analysis ran in 0.81 seconds
